@@ -1,6 +1,6 @@
 # List of ML File Formats
 
-This repository is intended to be a comprehensive list of ML/AI file formats. This can be used as a resource for tool development and vulnerability research. We aim to keep this list as up-to-date and accurate as possible. If you discover any missing file formats, inaccuracies, or if you have more details to contribute, please raise an [issue](https://github.com/trailofbits/ml-file-formats/issues) or submit a [pull request](https://github.com/trailofbits/ml-file-formats/pulls).
+This repository is intended to be a comprehensive list of ML/AI file formats. This can be used as a resource for tool development and vulnerability research. We aim to keep this list as up-to-date and accurate as possible, so this list is subject to change. If you discover any missing file formats, inaccuracies, or if you have more details to contribute, please raise an [issue](https://github.com/trailofbits/ml-file-formats/issues) or submit a [pull request](https://github.com/trailofbits/ml-file-formats/pulls).
 
 
 | Name                                                                                                                                                                                                                 | ML-specific | Framework/Organization (if applicable) | Identification Tooling | Extensions              | Additional Notes                                                                                                                                      |
